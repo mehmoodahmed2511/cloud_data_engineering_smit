@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv(r"brewbuzz_raw_orders.csv")
+df = pd.read_csv("brewbuzz_raw_orders.csv")
 print("Dataframe Shape:", df.shape)
 print(df.columns)
 
