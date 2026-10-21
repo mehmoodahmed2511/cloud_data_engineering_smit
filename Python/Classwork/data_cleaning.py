@@ -7,6 +7,7 @@ print(df.columns)
 
 #checking dataframe info
 df.info()
+df.shape
 #checking for null values
 print(df.isnull().sum())
 
@@ -24,7 +25,7 @@ df = df.drop_duplicates()
 print(df)
 
 # checking datatypes of df
-print(df.info)
+df.info()
 #adding 3 following columns with correct datatypes
 df["quantity_num"] = pd.to_numeric(df["quantity"], errors = "coerce")
 df["unit_price_float"] = pd.to_numeric(df["unit_price"], errors = "coerce")

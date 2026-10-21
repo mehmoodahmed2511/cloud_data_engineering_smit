@@ -1,1 +1,0 @@
-# smit_cloud_data_engineering_assignments

@@ -1,0 +1,11 @@
+User: admin
+Password: 4zS5KsgBWV9QffWX
+
+1. python -m venv venv
+2. source venv/bin/activate
+3. python -m pip install --upgrade pip
+4. pip install "apache-airflow==3.3.2" requests --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-3.3.2/constraints-3.12.txt"
+5. export AIRFLOW_HOME=/workspaces/airflow-class/.airflow
+6. export AIRFLOW_CORE_DAGS_FOLDER=/workspaces/airflow-class/dags
+7. export AIRFLOW_CORE_LOAD_EXAMPLES=false
+8. airflow standalone
