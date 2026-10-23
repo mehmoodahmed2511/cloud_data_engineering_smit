@@ -1,0 +1,404 @@
+order_id,date,city,item,qty,price
+10000,2026-10-18,Lahore,Leash,4,560
+10001,2026-10-18,Karachi,Chew Toy,1,275
+10002,2026-10-18,Karachi,Fish Tank,3,4200
+10003,2026-10-18,Karachi,Fish Tank,2,4200
+10004,2026-10-18,Karachi,Dog Food,4,1450
+10005,2026-10-18,Karachi,Bird Seed,2,320
+10006,2026-10-18,Peshawar,Dog Food,4,1450
+10007,2026-10-18,Peshawar,Dog Food,1,1450
+10008,2026-10-18,Peshawar,Cat Litter,1,890
+10009,2026-10-18,Peshawar,Fish Tank,4,4200
+10010,2026-10-18,Lahore,Dog Food,1,1450
+10011,2026-10-18,Lahore,Fish Tank,3,4200
+10012,2026-10-18,Lahore,Bird Seed,1,320
+10013,2026-10-18,Islamabad,Fish Tank,2,4200
+10014,2026-10-18,Peshawar,Dog Food,2,1450
+10015,2026-10-18,Karachi,Leash,1,560
+10016,2026-10-18,Karachi,Fish Tank,2,4200
+10017,2026-10-18,Peshawar,Bird Seed,4,320
+10018,2026-10-18,Faisalabad,Leash,4,560
+10019,2026-10-18,Islamabad,Leash,2,560
+10020,2026-10-18,Lahore,Cat Litter,1,890
+10021,2026-10-18,Islamabad,Fish Tank,4,4200
+10022,2026-10-18,Faisalabad,Leash,3,560
+10023,2026-10-18,Karachi,Fish Tank,1,4200
+10024,2026-10-18,Faisalabad,Fish Tank,2,4200
+10025,2026-10-18,Lahore,Leash,4,560
+10026,2026-10-18,Karachi,Bird Seed,1,320
+10027,2026-10-18,Peshawar,Fish Tank,3,4200
+10028,2026-10-18,Islamabad,Leash,4,560
+10029,2026-10-18,Faisalabad,Fish Tank,1,4200
+10030,2026-10-18,Islamabad,Dog Food,4,1450
+10031,2026-10-18,Karachi,Chew Toy,1,275
+10032,2026-10-18,Islamabad,Chew Toy,4,275
+10033,2026-10-18,Faisalabad,Leash,3,560
+10034,2026-10-18,Faisalabad,Dog Food,3,1450
+10035,2026-10-18,Peshawar,Cat Litter,1,890
+10036,2026-10-18,Karachi,Bird Seed,2,320
+10037,2026-10-18,Lahore,Leash,2,560
+10038,2026-10-18,Faisalabad,Bird Seed,4,320
+10039,2026-10-18,Lahore,Dog Food,4,1450
+10040,2026-10-18,Peshawar,Bird Seed,3,320
+10041,2026-10-18,Faisalabad,Cat Litter,3,890
+10042,2026-10-18,Faisalabad,Chew Toy,3,275
+10043,2026-10-18,Faisalabad,Chew Toy,2,275
+10044,2026-10-18,Karachi,Cat Litter,2,890
+10045,2026-10-18,Lahore,Cat Litter,2,890
+10046,2026-10-18,Faisalabad,Dog Food,2,1450
+10047,2026-10-18,Islamabad,Leash,1,560
+10048,2026-10-18,Faisalabad,Cat Litter,3,890
+10049,2026-10-18,Peshawar,Fish Tank,3,4200
+10050,2026-10-18,Peshawar,Cat Litter,1,890
+10051,2026-10-18,Peshawar,Bird Seed,4,320
+10052,2026-10-18,Faisalabad,Bird Seed,4,320
+10053,2026-10-18,Faisalabad,Dog Food,4,1450
+10054,2026-10-18,Lahore,Dog Food,1,1450
+10055,2026-10-18,Faisalabad,Cat Litter,2,890
+10056,2026-10-18,Islamabad,Dog Food,1,1450
+10057,2026-10-18,Karachi,Dog Food,2,1450
+10058,2026-10-18,Karachi,Fish Tank,3,4200
+10059,2026-10-18,Karachi,Fish Tank,1,4200
+10060,2026-10-18,Peshawar,Cat Litter,4,890
+10061,2026-10-18,Islamabad,Cat Litter,3,890
+10062,2026-10-18,Islamabad,Fish Tank,4,4200
+10063,2026-10-18,Karachi,Dog Food,4,1450
+10064,2026-10-18,Faisalabad,Bird Seed,4,320
+10065,2026-10-18,Karachi,Leash,2,560
+10066,2026-10-18,Islamabad,Dog Food,3,1450
+10067,2026-10-18,Lahore,Bird Seed,1,320
+10068,2026-10-18,Peshawar,Cat Litter,3,890
+10069,2026-10-18,Peshawar,Cat Litter,1,890
+10070,2026-10-18,Islamabad,Fish Tank,1,4200
+10071,2026-10-18,Islamabad,Chew Toy,3,275
+10072,2026-10-18,Islamabad,Cat Litter,2,890
+10073,2026-10-18,Peshawar,Fish Tank,3,4200
+10074,2026-10-18,Lahore,Chew Toy,2,275
+10075,2026-10-18,Faisalabad,Cat Litter,2,890
+10076,2026-10-18,Peshawar,Cat Litter,4,890
+10077,2026-10-18,Karachi,Leash,1,560
+10078,2026-10-18,Faisalabad,Leash,3,560
+10079,2026-10-18,Peshawar,Cat Litter,3,890
+10080,2026-10-18,Islamabad,Bird Seed,3,320
+10081,2026-10-18,Lahore,Dog Food,1,1450
+10082,2026-10-18,Faisalabad,Cat Litter,2,890
+10083,2026-10-18,Lahore,Leash,4,560
+10084,2026-10-18,Peshawar,Fish Tank,1,4200
+10085,2026-10-18,Islamabad,Bird Seed,1,320
+10086,2026-10-18,Karachi,Chew Toy,4,275
+10087,2026-10-18,Lahore,Chew Toy,4,275
+10088,2026-10-18,Faisalabad,Cat Litter,3,890
+10089,2026-10-18,Faisalabad,Dog Food,4,1450
+10090,2026-10-18,Karachi,Bird Seed,2,320
+10091,2026-10-18,Lahore,Cat Litter,1,890
+10092,2026-10-18,Peshawar,Cat Litter,4,890
+10093,2026-10-18,Lahore,Chew Toy,4,275
+10094,2026-10-18,Islamabad,Chew Toy,2,275
+10095,2026-10-18,Peshawar,Fish Tank,2,4200
+10096,2026-10-18,Karachi,Dog Food,1,1450
+10097,2026-10-18,Lahore,Fish Tank,4,4200
+10098,2026-10-18,Lahore,Cat Litter,1,890
+10099,2026-10-18,Lahore,Leash,3,560
+10100,2026-10-18,Lahore,Fish Tank,3,4200
+10101,2026-10-18,Peshawar,Leash,4,560
+10102,2026-10-18,Karachi,Cat Litter,3,890
+10103,2026-10-18,Peshawar,Bird Seed,4,320
+10104,2026-10-18,Lahore,Fish Tank,2,4200
+10105,2026-10-18,Peshawar,Fish Tank,1,4200
+10106,2026-10-18,Lahore,Bird Seed,1,320
+10107,2026-10-18,Lahore,Cat Litter,2,890
+10108,2026-10-18,Peshawar,Bird Seed,1,320
+10109,2026-10-18,Karachi,Fish Tank,3,4200
+10110,2026-10-18,Peshawar,Chew Toy,4,275
+10111,2026-10-18,Peshawar,Dog Food,1,1450
+10112,2026-10-18,Lahore,Cat Litter,3,890
+10113,2026-10-18,Karachi,Dog Food,4,1450
+10114,2026-10-18,Karachi,Fish Tank,1,4200
+10115,2026-10-18,Islamabad,Bird Seed,2,320
+10116,2026-10-18,Islamabad,Chew Toy,4,275
+10117,2026-10-18,Peshawar,Fish Tank,4,4200
+10118,2026-10-18,Lahore,Fish Tank,3,4200
+10119,2026-10-18,Lahore,Fish Tank,4,4200
+10120,2026-10-18,Faisalabad,Cat Litter,1,890
+10121,2026-10-18,Faisalabad,Bird Seed,3,320
+10122,2026-10-18,Lahore,Dog Food,4,1450
+10123,2026-10-18,Lahore,Dog Food,3,1450
+10124,2026-10-18,Lahore,Dog Food,3,1450
+10125,2026-10-18,Islamabad,Cat Litter,2,890
+10126,2026-10-18,Lahore,Bird Seed,1,320
+10127,2026-10-18,Faisalabad,Bird Seed,2,320
+10128,2026-10-18,Lahore,Chew Toy,2,275
+10129,2026-10-18,Faisalabad,Chew Toy,4,275
+10130,2026-10-18,Faisalabad,Leash,2,560
+10131,2026-10-18,Islamabad,Leash,1,560
+10132,2026-10-18,Islamabad,Chew Toy,1,275
+10133,2026-10-18,Peshawar,Leash,4,560
+10134,2026-10-18,Karachi,Bird Seed,4,320
+10135,2026-10-18,Peshawar,Leash,3,560
+10136,2026-10-18,Karachi,Fish Tank,1,4200
+10137,2026-10-18,Karachi,Cat Litter,1,890
+10138,2026-10-18,Islamabad,Leash,1,560
+10139,2026-10-18,Islamabad,Cat Litter,2,890
+10140,2026-10-18,Islamabad,Bird Seed,4,320
+10141,2026-10-18,Peshawar,Cat Litter,4,890
+10142,2026-10-18,Islamabad,Chew Toy,1,275
+10143,2026-10-18,Karachi,Leash,2,560
+10144,2026-10-18,Karachi,Bird Seed,3,320
+10145,2026-10-18,Karachi,Dog Food,3,1450
+10146,2026-10-18,Peshawar,Dog Food,2,1450
+10147,2026-10-18,Islamabad,Dog Food,1,1450
+10148,2026-10-18,Karachi,Bird Seed,3,320
+10149,2026-10-18,Faisalabad,Fish Tank,3,4200
+10150,2026-10-18,Lahore,Fish Tank,1,4200
+10151,2026-10-18,Lahore,Fish Tank,1,4200
+10152,2026-10-18,Islamabad,Cat Litter,1,890
+10153,2026-10-18,Lahore,Cat Litter,3,890
+10154,2026-10-18,Islamabad,Chew Toy,2,275
+10155,2026-10-18,Faisalabad,Leash,2,560
+10156,2026-10-18,Islamabad,Leash,1,560
+10157,2026-10-18,Karachi,Leash,1,560
+10158,2026-10-18,Peshawar,Dog Food,2,1450
+10159,2026-10-18,Faisalabad,Fish Tank,2,4200
+10160,2026-10-18,Karachi,Bird Seed,4,320
+10161,2026-10-18,Faisalabad,Chew Toy,4,275
+10162,2026-10-18,Islamabad,Fish Tank,2,4200
+10163,2026-10-18,Islamabad,Cat Litter,2,890
+10164,2026-10-18,Lahore,Chew Toy,4,275
+10165,2026-10-18,Karachi,Leash,2,560
+10166,2026-10-18,Karachi,Dog Food,3,1450
+10167,2026-10-18,Lahore,Bird Seed,1,320
+10168,2026-10-18,Faisalabad,Dog Food,3,1450
+10169,2026-10-18,Lahore,Fish Tank,3,4200
+10170,2026-10-18,Faisalabad,Dog Food,2,1450
+10171,2026-10-18,Islamabad,Cat Litter,4,890
+10172,2026-10-18,Islamabad,Dog Food,3,1450
+10173,2026-10-18,Peshawar,Leash,3,560
+10174,2026-10-18,Karachi,Cat Litter,3,890
+10175,2026-10-18,Islamabad,Cat Litter,2,890
+10176,2026-10-18,Islamabad,Dog Food,4,1450
+10177,2026-10-18,Faisalabad,Dog Food,3,1450
+10178,2026-10-18,Lahore,Fish Tank,2,4200
+10179,2026-10-18,Karachi,Fish Tank,1,4200
+10180,2026-10-18,Karachi,Leash,2,560
+10181,2026-10-18,Peshawar,Bird Seed,1,320
+10182,2026-10-18,Karachi,Bird Seed,3,320
+10183,2026-10-18,Lahore,Leash,1,560
+10184,2026-10-18,Peshawar,Fish Tank,2,4200
+10185,2026-10-18,Peshawar,Chew Toy,4,275
+10186,2026-10-18,Faisalabad,Leash,2,560
+10187,2026-10-18,Peshawar,Leash,2,560
+10188,2026-10-18,Peshawar,Dog Food,4,1450
+10189,2026-10-18,Peshawar,Chew Toy,2,275
+10190,2026-10-18,Peshawar,Fish Tank,1,4200
+10191,2026-10-18,Peshawar,Chew Toy,2,275
+10192,2026-10-18,Karachi,Dog Food,1,1450
+10193,2026-10-18,Islamabad,Cat Litter,1,890
+10194,2026-10-18,Faisalabad,Bird Seed,1,320
+10195,2026-10-18,Karachi,Chew Toy,2,275
+10196,2026-10-18,Islamabad,Bird Seed,1,320
+10197,2026-10-18,Karachi,Bird Seed,1,320
+10198,2026-10-18,Peshawar,Chew Toy,1,275
+10199,2026-10-18,Faisalabad,Chew Toy,3,275
+10200,2026-10-18,Islamabad,Dog Food,2,1450
+10201,2026-10-18,Lahore,Chew Toy,2,275
+10202,2026-10-18,Faisalabad,Chew Toy,4,275
+10203,2026-10-18,Karachi,Bird Seed,4,320
+10204,2026-10-18,Islamabad,Chew Toy,1,275
+10205,2026-10-18,Lahore,Fish Tank,1,4200
+10206,2026-10-18,Lahore,Fish Tank,3,4200
+10207,2026-10-18,Islamabad,Leash,2,560
+10208,2026-10-18,Faisalabad,Dog Food,1,1450
+10209,2026-10-18,Islamabad,Bird Seed,1,320
+10210,2026-10-18,Lahore,Chew Toy,4,275
+10211,2026-10-18,Peshawar,Leash,3,560
+10212,2026-10-18,Faisalabad,Bird Seed,4,320
+10213,2026-10-18,Peshawar,Dog Food,2,1450
+10214,2026-10-18,Karachi,Leash,4,560
+10215,2026-10-18,Islamabad,Dog Food,4,1450
+10216,2026-10-18,Peshawar,Dog Food,4,1450
+10217,2026-10-18,Faisalabad,Leash,2,560
+10218,2026-10-18,Karachi,Cat Litter,1,890
+10219,2026-10-18,Peshawar,Cat Litter,3,890
+10220,2026-10-18,Lahore,Leash,3,560
+10221,2026-10-18,Islamabad,Dog Food,2,1450
+10222,2026-10-18,Faisalabad,Bird Seed,4,320
+10223,2026-10-18,Lahore,Dog Food,1,1450
+10224,2026-10-18,Faisalabad,Bird Seed,4,320
+10225,2026-10-18,Lahore,Leash,4,560
+10226,2026-10-18,Faisalabad,Leash,3,560
+10227,2026-10-18,Islamabad,Dog Food,1,1450
+10228,2026-10-18,Islamabad,Leash,4,560
+10229,2026-10-18,Lahore,Dog Food,1,1450
+10230,2026-10-18,Islamabad,Chew Toy,3,275
+10231,2026-10-18,Karachi,Leash,4,560
+10232,2026-10-18,Peshawar,Bird Seed,1,320
+10233,2026-10-18,Faisalabad,Leash,3,560
+10234,2026-10-18,Islamabad,Dog Food,1,1450
+10235,2026-10-18,Islamabad,Dog Food,2,1450
+10236,2026-10-18,Islamabad,Cat Litter,4,890
+10237,2026-10-18,Islamabad,Fish Tank,2,4200
+10238,2026-10-18,Faisalabad,Leash,1,560
+10239,2026-10-18,Faisalabad,Chew Toy,2,275
+10240,2026-10-18,Karachi,Chew Toy,1,275
+10241,2026-10-18,Faisalabad,Chew Toy,4,275
+10242,2026-10-18,Lahore,Fish Tank,3,4200
+10243,2026-10-18,Karachi,Bird Seed,2,320
+10244,2026-10-18,Faisalabad,Cat Litter,4,890
+10245,2026-10-18,Islamabad,Leash,3,560
+10246,2026-10-18,Islamabad,Leash,4,560
+10247,2026-10-18,Lahore,Chew Toy,3,275
+10248,2026-10-18,Peshawar,Bird Seed,4,320
+10249,2026-10-18,Lahore,Dog Food,2,1450
+10250,2026-10-18,Lahore,Dog Food,4,1450
+10251,2026-10-18,Lahore,Fish Tank,4,4200
+10252,2026-10-18,Faisalabad,Leash,4,560
+10253,2026-10-18,Peshawar,Cat Litter,2,890
+10254,2026-10-18,Karachi,Cat Litter,2,890
+10255,2026-10-18,Peshawar,Leash,1,560
+10256,2026-10-18,Lahore,Leash,3,560
+10257,2026-10-18,Peshawar,Leash,2,560
+10258,2026-10-18,Faisalabad,Dog Food,4,1450
+10259,2026-10-18,Peshawar,Bird Seed,2,320
+10260,2026-10-18,Islamabad,Bird Seed,3,320
+10261,2026-10-18,Faisalabad,Dog Food,3,1450
+10262,2026-10-18,Islamabad,Fish Tank,2,4200
+10263,2026-10-18,Peshawar,Chew Toy,2,275
+10264,2026-10-18,Islamabad,Dog Food,2,1450
+10265,2026-10-18,Faisalabad,Bird Seed,4,320
+10266,2026-10-18,Islamabad,Bird Seed,1,320
+10267,2026-10-18,Karachi,Cat Litter,4,890
+10268,2026-10-18,Faisalabad,Chew Toy,4,275
+10269,2026-10-18,Karachi,Dog Food,4,1450
+10270,2026-10-18,Faisalabad,Fish Tank,4,4200
+10271,2026-10-18,Karachi,Cat Litter,2,890
+10272,2026-10-18,Lahore,Cat Litter,1,890
+10273,2026-10-18,Faisalabad,Chew Toy,1,275
+10274,2026-10-18,Karachi,Fish Tank,1,4200
+10275,2026-10-18,Lahore,Cat Litter,1,890
+10276,2026-10-18,Islamabad,Chew Toy,2,275
+10277,2026-10-18,Islamabad,Chew Toy,4,275
+10278,2026-10-18,Karachi,Chew Toy,1,275
+10279,2026-10-18,Islamabad,Dog Food,2,1450
+10280,2026-10-18,Islamabad,Bird Seed,2,320
+10281,2026-10-18,Karachi,Fish Tank,1,4200
+10282,2026-10-18,Islamabad,Fish Tank,4,4200
+10283,2026-10-18,Islamabad,Leash,2,560
+10284,2026-10-18,Peshawar,Bird Seed,2,320
+10285,2026-10-18,Lahore,Fish Tank,1,4200
+10286,2026-10-18,Islamabad,Bird Seed,1,320
+10287,2026-10-18,Lahore,Dog Food,4,1450
+10288,2026-10-18,Faisalabad,Chew Toy,1,275
+10289,2026-10-18,Lahore,Leash,4,560
+10290,2026-10-18,Lahore,Leash,4,560
+10291,2026-10-18,Islamabad,Dog Food,4,1450
+10292,2026-10-18,Faisalabad,Leash,2,560
+10293,2026-10-18,Islamabad,Dog Food,1,1450
+10294,2026-10-18,Faisalabad,Cat Litter,2,890
+10295,2026-10-18,Lahore,Leash,2,560
+10296,2026-10-18,Lahore,Bird Seed,3,320
+10297,2026-10-18,Karachi,Leash,4,560
+10298,2026-10-18,Lahore,Fish Tank,2,4200
+10299,2026-10-18,Faisalabad,Bird Seed,1,320
+10300,2026-10-18,Lahore,Fish Tank,4,4200
+10301,2026-10-18,Lahore,Dog Food,1,1450
+10302,2026-10-18,Lahore,Fish Tank,4,4200
+10303,2026-10-18,Karachi,Dog Food,2,1450
+10304,2026-10-18,Faisalabad,Bird Seed,3,320
+10305,2026-10-18,Karachi,Chew Toy,1,275
+10306,2026-10-18,Islamabad,Cat Litter,2,890
+10307,2026-10-18,Peshawar,Cat Litter,4,890
+10308,2026-10-18,Islamabad,Dog Food,4,1450
+10309,2026-10-18,Islamabad,Leash,4,560
+10310,2026-10-18,Karachi,Cat Litter,1,890
+10311,2026-10-18,Islamabad,Dog Food,1,1450
+10312,2026-10-18,Faisalabad,Leash,1,560
+10313,2026-10-18,Lahore,Fish Tank,4,4200
+10314,2026-10-18,Islamabad,Leash,4,560
+10315,2026-10-18,Karachi,Dog Food,4,1450
+10316,2026-10-18,Islamabad,Cat Litter,4,890
+10317,2026-10-18,Islamabad,Cat Litter,3,890
+10318,2026-10-18,Faisalabad,Chew Toy,1,275
+10319,2026-10-18,Faisalabad,Chew Toy,2,275
+10320,2026-10-18,Faisalabad,Chew Toy,1,275
+10321,2026-10-18,Karachi,Bird Seed,4,320
+10322,2026-10-18,Karachi,Dog Food,3,1450
+10323,2026-10-18,Karachi,Cat Litter,3,890
+10324,2026-10-18,Islamabad,Leash,3,560
+10325,2026-10-18,Karachi,Fish Tank,3,4200
+10326,2026-10-18,Islamabad,Chew Toy,3,275
+10327,2026-10-18,Karachi,Leash,1,560
+10328,2026-10-18,Lahore,Dog Food,1,1450
+10329,2026-10-18,Faisalabad,Bird Seed,4,320
+10330,2026-10-18,Faisalabad,Leash,4,560
+10331,2026-10-18,Faisalabad,Cat Litter,2,890
+10332,2026-10-18,Islamabad,Dog Food,2,1450
+10333,2026-10-18,Lahore,Fish Tank,3,4200
+10334,2026-10-18,Faisalabad,Leash,3,560
+10335,2026-10-18,Karachi,Fish Tank,2,4200
+10336,2026-10-18,Lahore,Bird Seed,2,320
+10337,2026-10-18,Karachi,Bird Seed,1,320
+10338,2026-10-18,Peshawar,Bird Seed,3,320
+10339,2026-10-18,Faisalabad,Cat Litter,1,890
+10340,2026-10-18,Islamabad,Dog Food,1,1450
+10341,2026-10-18,Karachi,Cat Litter,4,890
+10342,2026-10-18,Faisalabad,Bird Seed,2,320
+10343,2026-10-18,Lahore,Cat Litter,4,890
+10344,2026-10-18,Peshawar,Bird Seed,2,320
+10345,2026-10-18,Peshawar,Chew Toy,1,275
+10346,2026-10-18,Islamabad,Leash,3,560
+10347,2026-10-18,Islamabad,Fish Tank,3,4200
+10348,2026-10-18,Islamabad,Leash,2,560
+10349,2026-10-18,Lahore,Bird Seed,2,320
+10350,2026-10-18,Lahore,Cat Litter,2,890
+10351,2026-10-18,Peshawar,Leash,2,560
+10352,2026-10-18,Karachi,Leash,4,560
+10353,2026-10-18,Lahore,Leash,2,560
+10354,2026-10-18,Karachi,Chew Toy,4,275
+10355,2026-10-18,Karachi,Dog Food,1,1450
+10356,2026-10-18,Lahore,Bird Seed,4,320
+10357,2026-10-18,Karachi,Leash,3,560
+10358,2026-10-18,Karachi,Cat Litter,1,890
+10359,2026-10-18,Peshawar,Cat Litter,2,890
+10360,2026-10-18,Islamabad,Dog Food,2,1450
+10361,2026-10-18,Peshawar,Bird Seed,3,320
+10362,2026-10-18,Karachi,Chew Toy,1,275
+10363,2026-10-18,Peshawar,Chew Toy,3,275
+10364,2026-10-18,Karachi,Cat Litter,3,890
+10365,2026-10-18,Lahore,Leash,1,560
+10366,2026-10-18,Islamabad,Cat Litter,1,890
+10367,2026-10-18,Lahore,Fish Tank,1,4200
+10368,2026-10-18,Faisalabad,Leash,3,560
+10369,2026-10-18,Peshawar,Cat Litter,3,890
+10370,2026-10-18,Lahore,Dog Food,1,1450
+10371,2026-10-18,Peshawar,Bird Seed,4,320
+10372,2026-10-18,Faisalabad,Dog Food,1,1450
+10373,2026-10-18,Peshawar,Bird Seed,2,320
+10374,2026-10-18,Peshawar,Chew Toy,1,275
+10375,2026-10-18,Lahore,Chew Toy,4,275
+10376,2026-10-18,Islamabad,Chew Toy,4,275
+10377,2026-10-18,Islamabad,Leash,4,560
+10378,2026-10-18,Islamabad,Dog Food,3,1450
+10379,2026-10-18,Faisalabad,Bird Seed,1,320
+10380,2026-10-18,Lahore,Leash,4,560
+10381,2026-10-18,Faisalabad,Chew Toy,2,275
+10382,2026-10-18,Faisalabad,Dog Food,2,1450
+10383,2026-10-18,Karachi,Bird Seed,1,320
+10384,2026-10-18,Peshawar,Bird Seed,3,320
+10385,2026-10-18,Lahore,Bird Seed,2,320
+10386,2026-10-18,Karachi,Dog Food,2,1450
+10387,2026-10-18,Faisalabad,Chew Toy,1,275
+10388,2026-10-18,Peshawar,Fish Tank,3,4200
+10389,2026-10-18,Peshawar,Chew Toy,2,275
+10390,2026-10-18,Islamabad,Cat Litter,3,890
+10391,2026-10-18,Peshawar,Cat Litter,2,890
+10392,2026-10-18,Karachi,Dog Food,4,1450
+10393,2026-10-18,Lahore,Bird Seed,3,320
+10394,2026-10-18,Karachi,Cat Litter,4,890
+10395,2026-10-18,Karachi,Leash,4,560
+10396,2026-10-18,Peshawar,Dog Food,2,1450
+10397,2026-10-18,Lahore,Chew Toy,4,275
+10398,2026-10-18,Lahore,Fish Tank,4,4200
+10399,2026-10-18,Peshawar,Cat Litter,2,890
+10400,2026-10-18,Karachi,Leash,0,560
+10401,not-a-date,Lahore,Chew Toy,2,275
+10402,2026-10-18,,Bird Seed,1,320

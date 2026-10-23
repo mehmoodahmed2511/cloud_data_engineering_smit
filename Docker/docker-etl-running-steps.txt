@@ -1,0 +1,15 @@
+1. docker run -d --name abdullahs-container -e POSTGRES_PASSWORD=secret -e POSTGRES_DB=sales -p 5432:5432 postgres:16
+
+2. docker exec -it abdullahs-container psql -U postgres -d sales
+ -- select version();
+
+
+New task: 
+
+1. cd solution
+2. docker-compose up --build -d
+3. docker-compose down
+4. docker-compose up --build -d
+5. docker logs solution-etl-1 
+6. docker exec -it solution-db-1 psql -U postgres -d sales
+sql: select * from sales;
